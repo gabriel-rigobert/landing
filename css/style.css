@@ -1,0 +1,31 @@
+/* import style font */
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+/* general styles rules */
+body {
+	font-family: "Lato", sans-serif;
+	background: rgb(116,116,116);
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1,h2,h3 {
+	font-family: "Lato", sans-serif;
+	font-weight: bold;
+
+}
+
+a {
+	text-decoration: none;
+	font-family:"Lato", sans-serif;
+
+}
